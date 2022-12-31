@@ -1,0 +1,23 @@
+{
+  "name": "js-dom",
+  "version": "1.0.0",
+  "description": "- [Netlify link](https://js-dom-erste.netlify.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekircbc/js-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekircbc/js-dom/issues"
+  },
+  "homepage": "https://github.com/bekircbc/js-dom#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
